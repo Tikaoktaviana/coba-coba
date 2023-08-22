@@ -27,9 +27,11 @@ body{
 .center{
     color: #ffffff;
 }
+.container{
+    background-color: aquamarine; 
+}
 #intro{
     margin-top: 50px;
-    background-color: aquamarine;
 }
 
 #work{
