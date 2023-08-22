@@ -18,7 +18,7 @@ body{
     z-index: -1;
 }
 .pink{
-    background-color: aquamarine!important;
+    background-color: rgb(225, 34, 152)!important;
 }
 #mainText{
     margin-top: 30vh;
