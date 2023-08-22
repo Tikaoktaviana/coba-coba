@@ -28,7 +28,7 @@ body{
     color: #ffffff;
 }
 .container{
-    background-color: aquamarine; 
+    background-color:  rgb(225, 34, 152)!important; 
 }
 #intro{
     margin-top: 50px;
@@ -38,6 +38,6 @@ body{
     background-color: rgb(61,61,61);
 }
 .black{
-    background-color: antiquewhite;
+    background-color: antiquewhite!important ;
 
 }
