@@ -60,7 +60,8 @@ body{
 }
 .button {
     border-radius: 15px;
-    color: white;
+    color: rgb(0, 0, 0);
+    background-color: rgb(100, 50, 215);
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -71,5 +72,5 @@ body{
 
   }
 .button{
- {background-color:#fbe2ef;}
+ {background-color: #fbe2ef;}
  }
