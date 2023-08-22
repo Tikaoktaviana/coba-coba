@@ -41,7 +41,7 @@ body{
     background-color:#fbe2ef!important ;
 
 }
-.row center img{
+.row center col .s12 .m12 .l3 img{
     height: 100px;
     
 }
