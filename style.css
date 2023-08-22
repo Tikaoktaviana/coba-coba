@@ -23,7 +23,9 @@ body{
 #mainText{
     margin-top: 30vh;
 }
-
+.center{
+    color: #fff;
+}
 #intro{
     margin-top: 50px;
 }
