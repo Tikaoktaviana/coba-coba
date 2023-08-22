@@ -11,7 +11,7 @@ body{
     background-attachment: fixed;
     z-index: -1;
 }
-.navbar-fixed .pink{
+.navbar-fixed {
  background-color:  #3ab315;
 }
 
