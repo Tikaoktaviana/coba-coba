@@ -41,6 +41,7 @@ body{
     background-color:#fbe2ef!important ;
 
 }
-.row center{
-    size: 70%;
+.row center img{
+    height: 100px;
+    
 }
