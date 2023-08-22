@@ -17,7 +17,9 @@ body{
     background-attachment: fixed;
     z-index: -1;
 }
-
+.pink{
+    background-color: aquamarine!important;
+}
 #mainText{
     margin-top: 30vh;
 }
