@@ -2,7 +2,7 @@ body{
     background-color:#fbe2ef;
     color: rgba(255,255,255,0.8);
 }
-nav {
+.nav {
     color: #fff;
     background-color: #050101;
     width: 100%;
