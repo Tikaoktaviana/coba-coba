@@ -59,7 +59,7 @@ body{
     text-align: left;
 }
 .button {
-    border: 5px;
+    border: 15px;
     color: white;
     padding: 15px 32px;
     text-align: center;
@@ -70,4 +70,4 @@ body{
     cursor: pointer;
 
   }
-.button1 {background-color: #4CAF50;} /* Green */
+.button1 {background-color:#fbe2ef;} /* Green */
