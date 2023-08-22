@@ -29,6 +29,14 @@ body{
 }
 .container{
     background-color:  rgb(225, 34, 152)!important; 
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    max-width: 1280px;
+    width: 90%;
+    padding-bottom: 10px;
 }
 #intro{
     margin-top: 50px;
